@@ -1,0 +1,11 @@
+C:\FPT\2024 SP\A6187400-Database Design & Development\AdmissionSystem\AdmissionSystem\bin\Debug\AdmissionSystem.exe.config
+C:\FPT\2024 SP\A6187400-Database Design & Development\AdmissionSystem\AdmissionSystem\bin\Debug\AdmissionSystem.exe
+C:\FPT\2024 SP\A6187400-Database Design & Development\AdmissionSystem\AdmissionSystem\bin\Debug\AdmissionSystem.pdb
+C:\FPT\2024 SP\A6187400-Database Design & Development\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.csproj.AssemblyReference.cache
+C:\FPT\2024 SP\A6187400-Database Design & Development\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.Form1.resources
+C:\FPT\2024 SP\A6187400-Database Design & Development\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.Properties.Resources.resources
+C:\FPT\2024 SP\A6187400-Database Design & Development\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.csproj.GenerateResource.cache
+C:\FPT\2024 SP\A6187400-Database Design & Development\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.csproj.CoreCompileInputs.cache
+C:\FPT\2024 SP\A6187400-Database Design & Development\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.exe
+C:\FPT\2024 SP\A6187400-Database Design & Development\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.pdb
+C:\FPT\2024 SP\A6187400-Database Design & Development\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.StudentManagementForm.resources
